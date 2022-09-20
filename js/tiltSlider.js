@@ -3,7 +3,7 @@
 
 	'use strict';
 
-	// https://gist.github.com/edankwan/4389601
+	
 	Modernizr.addTest('csstransformspreserve3d', function () {
 		var prop = Modernizr.prefixed('transformStyle');
 		var val = 'preserve-3d';
